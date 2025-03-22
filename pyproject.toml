@@ -1,5 +1,5 @@
 [project]
-name = "RCPass"
+name = "ConcealPass"
 version = "0.0.1"
 authors = [
     { name="sneekyfoxx", email="sneekyfoxx09@gmail.com" },
@@ -15,8 +15,8 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Homepage = "https://github.com/sneekyfoxx/RCPass"
-Issues = "https://github.com/sneekyfoxx/RCPass/issues"
+Homepage = "https://github.com/sneekyfoxx/ConcealPass"
+Issues = "https://github.com/sneekyfoxx/ConcealPass/issues"
 
 [build-system]
 requires = ['hatchling']
